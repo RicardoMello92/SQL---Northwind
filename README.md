@@ -11,7 +11,7 @@ SELECT, WHERE, LIKE, GROUP BY, JOINS, UNION, VIEWS, TEMPORARY TABLES, CASE, ORDE
 
 # Questions
 
-## - Basic Statements (Select, Where, Order by, Limit, Agg Functions):
+## - [Basic Statements (Select, Where, Order by, Limit, Agg Functions)](https://github.com/RicardoMello92/SQL---Northwind/blob/main/SQL%20Northwind%20Basic%20Statements.sql) :
 Show all the contact_name, address, city of all customers which are not from 'Germany', 'Mexico', 'Spain'
 
 Show the employee_id, order_id, customer_id, required_date, shipped_date from all orders shipped later than the required date
@@ -43,7 +43,7 @@ Select the name, address, city, and region of employees living in USA.
 Select the name, address, city, and region of employees older than 63 years old.
 
 
-## - Group by / Join / Union Statements
+## - [Group by / Join / Union Statements](https://github.com/RicardoMello92/SQL---Northwind/blob/main/SQL%20Northwind%20Group%20by%20_%20Join%20_%20Union%20Statements.sql) :
 
 
 Show the category_name and the average product unit price for each category rounded to 2 decimal places.
@@ -104,7 +104,7 @@ Select the identifier, name, and total sales of employees, ordered by the employ
 
 Select the names of employees who sell the products of more than 7 suppliers.
 
-## - Insert, update, Delete Statements
+## - [Insert, update, Delete Statements](https://github.com/RicardoMello92/SQL---Northwind/blob/main/SQL%20Northwind%20Insert%20_%20Update%20_%20Delete%20(1).sql) :
 
 Insert yourself into the Employees table Include the following fields: LastName, FirstName, Title, TitleOfCourtesy, BirthDate, HireDate, City, Region, PostalCode, Country, HomePhone, ReportsTo
 
@@ -120,7 +120,7 @@ Repeat previous update but this time update all orders associated with you
 
 Delete the records you inserted before.
 
-## - SubQueries / Views / Temporary Tables / Case Statements
+## - [SubQueries / Views / Temporary Tables / Case Statements](https://github.com/RicardoMello92/SQL---Northwind/blob/main/SQL%20Northwind%20SubQueries%20_%20Views%20_%20Temporary%20Tables%20_%20Case%20Statements%20.sql) :
  
 Select the name, address, city, and region of employees that have placed orders to be delivered in Belgium. 
 
